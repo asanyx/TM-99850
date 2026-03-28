@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: dinner
+TAG: RadioButton
+STATUS: ZALICZONE
